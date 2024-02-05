@@ -7,6 +7,6 @@ gleichgesetzt.
 
 Welcher Zusammenhang zwischen der Steigung der Nachfragekurve und
 $\eta_{Q,P}$ besteht, wird in 
-[diesem Jupyter
-Notebook](https://nbviewer.org/github/ProgrammierenNachOFI/Preiselastizitaet/blob/main/docs/arbeitsblatt.ipynb)
-erklärt.
+[diesem Jupyter Notebook](https://colab.research.google.com/github/ProgrammierenNachOFI/Preiselastizitaet/blob/main/docs/preiselastizitaet_sus.ipynb)
+erklärt.  
+Eine Musterlösung findet sich im entsprechenden GitHub Repository.
